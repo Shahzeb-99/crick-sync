@@ -1,0 +1,30 @@
+package_rename_config:
+  android:
+    app_name: "MyApp"  # Default Flutter app name
+    package_name: "com.example.myapp"  # Default Flutter package name
+    lang: "kotlin"  # Default language is Kotlin
+
+  ios:
+    app_name: "MyApp"  # Default Flutter app name
+    bundle_name: "com.example.MyApp"  # Default iOS bundle name
+    package_name: "com.example.myapp"  # Default iOS product bundle identifier
+
+  linux:
+    app_name: "MyApp"  # Default Flutter app name
+    package_name: "com.example.myapp"  # Default Linux application id
+    exe_name: "myapp"  # Default Linux executable name
+
+  macos:
+    app_name: "MyApp"  # Default Flutter app name
+    package_name: "com.example.MyApp"  # Default macOS product bundle identifier
+    copyright_notice: ""  # You can leave it empty or add your own copyright notice
+
+  web:
+    app_name: "MyApp"  # Default Flutter app name
+    description: "A new Flutter web app"  # Default web app description
+
+  windows:
+    app_name: "MyApp"  # Default Flutter app name
+    organization: "MyApp Organization"  # Default organization name
+    copyright_notice: ""  # You can leave it empty or add your own copyright notice
+    exe_name: "myapp"  # Default Windows executable name

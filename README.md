@@ -193,3 +193,7 @@ flutter-boilerplate/
 5. Push to the branch (`git push origin feature-branch`).  
 6. Open a pull request.  
   
+
+## License
+This project is licensed under a modified MIT License — free to use for educational and non-commercial purposes only.
+**Commercial use is prohibited without explicit written permission.**
